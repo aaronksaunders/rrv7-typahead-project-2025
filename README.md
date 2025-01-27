@@ -1,6 +1,11 @@
-# Welcome to React Router!
+# React Router v7 Type Ahead Component Example
 
 A modern, production-ready template for building full-stack React applications using React Router.
+
+## Video Walkthrough 
+React Router v7 Type-Ahead Component REVEALED!
+https://youtu.be/XjdIv_Yyh8I
+
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
 
